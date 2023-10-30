@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+   
 }
 
 img {
@@ -32,4 +32,18 @@ em strong {
 
 h2{
     text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-right: 50%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagembeneficios{
+    width: 50%;
 }
