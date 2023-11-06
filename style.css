@@ -2,6 +2,14 @@ body {
    
 }
 
+h1{
+    color: #000;;
+}
+
+.titulo-principal{
+    padding-left: 25px;
+}
+
 img {
     width: 100%;
 }
